@@ -62,7 +62,18 @@
 
 ###
 
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paulao80&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paulao80&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+###
+
 <br clear="both">
+
+<h2 align="left">Pac-Man eating my commits this year</h2>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulao80/Paulao80/output/pacman-contribution-graph-dark.svg">
