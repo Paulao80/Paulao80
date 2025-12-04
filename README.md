@@ -47,26 +47,32 @@
 ###
 
 <div align="left">
-  <a style="text-decoration:none; display:inline-block;"
+  <a style="text-decoration:none !important; display:inline-block;"
      href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="36" alt="linkedin logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="https://www.instagram.com/paulao8989/" target="_blank">
+
+  <a style="text-decoration:none !important; display:inline-block;" href="https://www.instagram.com/paulao8989/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="36" alt="instagram logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="https://www.facebook.com/paulovinicius.costanogueira/" target="_blank">
+  
+  <a style="text-decoration:none !important; display:inline-block;" href="https://www.facebook.com/paulovinicius.costanogueira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="36" alt="facebook logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="https://x.com/Paulao80" target="_blank">
+
+  <a style="text-decoration:none !important; display:inline-block;" href="https://x.com/Paulao80" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="36" alt="twitter logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="mailto:pauloviniciusjipa@gmail.com" target="_blank">
+
+  <a style="text-decoration:none !important; display:inline-block;" href="mailto:pauloviniciusjipa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="36" alt="gmail logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="https://api.whatsapp.com/send?phone=5569992967486" target="_blank">
+
+  <a style="text-decoration:none !important; display:inline-block;" href="https://api.whatsapp.com/send?phone=5569992967486" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="36" alt="whatsapp logo" />
   </a>
-  <a style="text-decoration:none; display:inline-block;" href="https://web.telegram.org/k/#@Paulao80" target="_blank">
+
+  <a style="text-decoration:none !important; display:inline-block;" href="https://web.telegram.org/k/#@Paulao80" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="36" alt="telegram logo" />
   </a>
 </div>
