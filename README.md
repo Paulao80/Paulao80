@@ -47,9 +47,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="36" alt="linkedin logo" />
-  </a>
+  <span>
+    <a href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="36" alt="linkedin logo" />
+    </a>
+  </span>
   <img width="18" />
   <a href="https://www.instagram.com/paulao8989/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="36" alt="instagram logo" />
