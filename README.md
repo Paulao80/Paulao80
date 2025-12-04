@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/paulao8989/" target="_blank">
