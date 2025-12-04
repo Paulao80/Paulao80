@@ -47,34 +47,29 @@
 ###
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="36" alt="linkedin logo" />
-    </a>
-  <img width="18" />
-  <a href="https://www.instagram.com/paulao8989/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="36" alt="instagram logo" />
-  </a>
-  <img width="18" />
-  <a href="https://www.facebook.com/paulovinicius.costanogueira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="36" alt="facebook logo" />
-  </a>
-  <img width="18" />
-  <a href="https://x.com/Paulao80" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="36" alt="twitter logo" />
-  </a>
-  <img width="18" />
-  <a href="mailto:pauloviniciusjipa@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="36" alt="gmail logo" />
-  </a>
-  <img width="18" />
-  <a href="https://api.whatsapp.com/send?phone=5569992967486" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="36" alt="whatsapp logo" />
-  </a>
-  <img width="18" />
-  <a href="https://web.telegram.org/k/#@Paulao80" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="36" alt="telegram logo" />
+  <a href="https://www.linkedin.com/in/paulo-vinícius-costa-nogueira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="36" alt="linkedin logo" />
+  </a><!--
+  --><a href="https://www.instagram.com/paulao8989/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="36" alt="instagram logo" />
+  </a><!--
+  --><a href="https://www.facebook.com/paulovinicius.costanogueira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="36" alt="facebook logo" />
+  </a><!--
+  --><a href="https://x.com/Paulao80" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="36" alt="twitter logo" />
+  </a><!--
+  --><a href="mailto:pauloviniciusjipa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="36" alt="gmail logo" />
+  </a><!--
+  --><a href="https://api.whatsapp.com/send?phone=5569992967486" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="36" alt="whatsapp logo" />
+  </a><!--
+  --><a href="https://web.telegram.org/k/#@Paulao80" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="36" alt="telegram logo" />
   </a>
 </div>
+
 
 ###
 
