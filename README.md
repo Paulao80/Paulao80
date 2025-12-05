@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a software developer with over {{YEARS}} years of experience, passionate about technology and video games. I work as a Front-end developer for web applications and have solid experience with modern technologies, including ReactJS, NextJS, VueJS, TypeScript, JavaScript, Node.js, .NET, C#, Entity Framework, Java, HTML, CSS, and Ant Design.</p>
+<p align="left">I am a software developer with over 8 years of experience, passionate about technology and video games. I work as a Front-end developer for web applications and have solid experience with modern technologies, including ReactJS, NextJS, VueJS, TypeScript, JavaScript, Node.js, .NET, C#, Entity Framework, Java, HTML, CSS, and Ant Design.</p>
 
 ###
 
